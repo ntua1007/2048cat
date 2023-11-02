@@ -1,6 +1,3 @@
-当你需要在页面上添加中文标题时，只需将标题文本更改为中文即可。下面是一个具有中文标题的示例代码：
-
-```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -49,6 +46,3 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </body>
 </html>
-```
-
-在这个示例中，我已将标题文本和表单标签更改为中文。这将显示页面上的中文标题和表单标签。
